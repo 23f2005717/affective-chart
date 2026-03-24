@@ -1,0 +1,7 @@
+{
+    "prompt": "A young child sitting alone in a city covered with thick grey smog,\nholding a glowing glass jar containing clear blue sky and fresh air,\nthe surroundings are dark and polluted, strong emotional contrast,\ncinematic lighting, hyper-realistic, no text, no labels",
+    "model": "Stable Diffusion v1.5",
+    "dataset_name": "Air Quality Index India",
+    "dataset_url": "https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india",
+    "insight": "Many Indian cities have average AQI levels above safe limits, making the air unhealthy to breathe"
+}
